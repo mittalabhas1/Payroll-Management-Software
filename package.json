@@ -1,0 +1,13 @@
+{
+  "name": "Payroll-Management-Software",
+  "version": "0.0.1",
+  "description": "A payroll management software for accounts section of IIT Roorkee",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mittalabhas1/Payroll-Management-Software"
+  },
+  "author": "Abhas Mittal",
+  "license": "MIT License",
+  "readmeFilename": "README.md",
+  "dependencies": {},
+}
